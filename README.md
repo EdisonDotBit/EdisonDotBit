@@ -43,7 +43,7 @@ I am a Software Developer with a strong foundation in software engineering, prob
 # 📊 GitHub Stats
 ![](https://github-readme-stats.shion.dev/api?username=EdisonDotBit&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=EdisonDotBit&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=EdisonDotBit&theme=tokyonight_duo&hide_border=true" />
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=EdisonDotBit&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
