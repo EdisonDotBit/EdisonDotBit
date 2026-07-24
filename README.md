@@ -41,11 +41,11 @@ I am a Software Developer with a strong foundation in software engineering, prob
 ---
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=EdisonDotBit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EdisonDotBit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![](https://streak-stats.demolab.com?user=EdisonDotBit&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=EdisonDotBit&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EdisonDotBit&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EdisonDotBit&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
