@@ -8,7 +8,7 @@ I am a Software Developer with a strong foundation in software engineering, prob
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/bytelati)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edison-lati-jr/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:junior.lati@gmail.com)
+[![Email](https://img.shields.io/badge/Email-junior.lati%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:junior.lati@gmail.com)
 
 ---
 
@@ -43,7 +43,7 @@ I am a Software Developer with a strong foundation in software engineering, prob
 # 📊 GitHub Stats
 ![](https://github-readme-stats.shion.dev/api?username=EdisonDotBit&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://streak-stats.demolab.com?user=EdisonDotBit&theme=dark&hide_border=false)
+![](https://streak-stats.demolab.com?user=EdisonDotBit)
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=EdisonDotBit&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
