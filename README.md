@@ -3,7 +3,7 @@ Hello! I’m Edison P. Lati Jr. A graduate at Rizal Technological University - B
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/bytelati) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/edison-lati-jr/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:junior.lati@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/bytelati) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edison-lati-jr/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:junior.lati@gmail.com)
 
 
 # 💻 Tech Stack:
