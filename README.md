@@ -1,7 +1,7 @@
 # 💫 About Me
 Hello! I'm **Edison P. Lati Jr.**, a graduate of **Rizal Technological University – Boni Campus** with a **Bachelor of Science in Information Technology**.
 
-I am a Software Developer with a strong foundation in software engineering, problem-solving, and modern web development. I primarily develop applications using **C#, ASP.NET, Modern Angular, and Microsoft SQL Server**. Passionate about continuous learning, I am always looking for opportunities to contribute to meaningful projects while expanding my technical expertise.
+I am a Software Developer with a strong foundation in software engineering, problem-solving, and modern web development. I primarily develop applications using **C#, ASP.NET Core, ASP.NET MVC and Microsoft SQL Server**. Passionate about continuous learning, I am always looking for opportunities to contribute to meaningful projects while expanding my technical expertise.
 
 ---
 
